@@ -7,3 +7,10 @@
    
 4. For Linux users add the shebang line to the top of the code before running. For Windows change nothing except the emails.
 5. Run the code.
+
+# How to use Webscrapper.py
+
+1. Either fork or download
+2. Install Python and all dependencies.
+3. Make sure shebang line is added if needed. 
+4. Make sure the url you input is the full url. 
