@@ -2,7 +2,7 @@
 
 ## How to use
 1. Either fork or download the Keylogger.pyw file
-2. Install Python and download all dependencies
+2. Install Python and download all *dependencies* (*dependencies* are the *imports* at the top of the code) 
 3. Change the source code to reflect the correct emails.
    (You should have a email that is sending the keystrokes and receiving keystrokes.)
    
