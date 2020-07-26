@@ -8,7 +8,7 @@
 4. For Linux users add the shebang line to the top of the code before running. For Windows change nothing except the emails.
 5. Run the code.
 6. Press ```esc``` to stop the code.
-7. If you want to change the button go to function 
+7. If you want to change the button go to ```def on_release```
 
 # How to use Webscrapper.py
 
