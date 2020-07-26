@@ -5,7 +5,10 @@
 3. In ```def send_mail``` Change code to reflect the email you want to send keystrokes from its password and the receiving emails. 
 
    a. Change ```address```, ```password```, ```receivers```.
-   b. smtp for *Gmail, Yahoo, etc* to select the *correct email server* and port for **TLS**. 
+   
+   b. Google smtp for *Gmail, Yahoo, etc* to select the *correct email server* and port for **TLS**. 
+   
+   c. ^ use info in b to change `s = smtplib.SMTP(` line.
 4. For Linux users add the shebang line to the top of the code before running. For Windows change nothing except the emails.
 5. Run the code.
 6. Press ```esc``` to stop the code.
