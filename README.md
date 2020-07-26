@@ -18,6 +18,6 @@
 
 1. Either fork or download
 2. Install Python and all dependencies.
-3. Make sure shebang line is added if needed.*(Windows Shebang not needed)*
+3. Make sure shebang line is added if needed.*(On Windows Shebang not needed)*
 4. Run the code. 
 5. Make sure the url you input is the full url. 
