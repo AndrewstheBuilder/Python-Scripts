@@ -18,6 +18,6 @@
 
 1. Either fork or download
 2. Install Python and all dependencies.
-3. Make sure shebang line is added if needed.*(On Windows Shebang not needed)*
+3. Make sure shebang line is added at the top of the script if needed.*(On Windows OS Shebang line is not needed)*
 4. Copy the full link of the website you want to scrap.
 5. Run the code.
